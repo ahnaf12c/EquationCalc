@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1712735736 source:c:\users\user\desktop\ \equationcalc\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"solver.h"
+
+1712736587 c:\users\user\desktop\ \equationcalc\solver.h
+	<stdio.h>
+	<math.h>
+
